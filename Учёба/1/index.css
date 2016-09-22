@@ -1,0 +1,49 @@
+@font-face { font-family: Harry P; font-weight: bold; src: url('HARRYP__.TTF'); }
+
+
+html{
+  font-family: "Harry P";
+  background-image: url("bg.jpg");
+
+}
+.par1{
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  text-shadow: 2px 2px grey;
+
+}
+
+h1{
+  font-size: 100px;
+  color: gold;
+  text-shadow: 2px 2px grey;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-size: 40px;
+}
+
+.par2{
+    position: absolute;
+    left: 20%;
+    margin-right: 60%;
+}
+
+#link1{
+  color:gold;
+  text-shadow: 2px 2px grey;
+}
+
+#kek{
+  position: absolute;
+  left: 30.5%;
+
+}
+
+#img1{
+  box-shadow: 3px 1.2px grey;
+  border-radius: 10px;
+}
